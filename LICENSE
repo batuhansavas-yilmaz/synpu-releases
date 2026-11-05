@@ -1,21 +1,51 @@
-MIT License
+Synpu — Özel Mülk Lisans / Proprietary License
 
 Copyright (c) 2026 Batuhan Savaş Yılmaz
+Tüm hakları saklıdır. / All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Bu yazılım, kaynak kodu, belgeler ve resmi sürüm dosyaları ("Yazılım") Batuhan Savaş Yılmaz'a aittir.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. SINIRLI İZİN
+Yazılımı yalnızca kişisel ve ticari olmayan amaçlarla, değiştirmeden kullanabilirsiniz. Bu izin münhasır değildir ve mülkiyet hakkı devretmez.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. TİCARİ KULLANIM YASAĞI
+Yazılımın veya türevlerinin doğrudan ya da dolaylı olarak ticari amaçlarla kullanılması, satılması, kiralanması, lisanslanması, ücretli bir hizmetin parçası yapılması, bir işletme faaliyeti kapsamında kullanılması veya ticari bir ürün/hizmetle birlikte dağıtılması, önceden yazılı izin alınmadan yasaktır.
+
+3. KAYNAK KODU
+Kaynak kodu özel mülktür ve bu lisans kapsamında paylaşılmaz. Kaynak kodunu kopyalama, değiştirme veya dağıtma hakkı verilmez.
+
+4. DAĞITIM
+Resmi sürüm dosyaları yalnızca değiştirilmeden, ücretsiz olarak ve bu lisans metniyle birlikte paylaşılabilir. Yazılımın ücret karşılığında satılması veya ticari bir paket içinde sunulması yasaktır.
+
+5. GARANTİ REDDİ
+Yazılım "olduğu gibi" ve "mevcut olduğu şekilde" sunulur. Açık veya örtülü hiçbir garanti verilmez; bunlarla sınırlı olmamak üzere satılabilirlik, belirli bir amaca uygunluk ve ihlal etmeme garantileri dahil değildir.
+
+6. SORUMLULUĞUN SINIRLANDIRILMASI
+Yazılımın kullanımından veya kullanılamamasından doğan hiçbir doğrudan, dolaylı, arızi, özel, cezai veya sonuçsal zarardan, sözleşme, haksız fiil veya başka bir hukuki sebebe dayanılsın, telif hakkı sahibi sorumlu tutulamaz.
+
+7. FESİH
+Bu koşulların herhangi birinin ihlali halinde bu lisans kapsamında verilen tüm izinler otomatik olarak sona erer.
+
+8. ÖNCEKİ SÜRÜMLER
+Bu lisans, bu dosyanın yayımlandığı tarihten sonraki sürümler için geçerlidir. v0.2.14 ve önceki resmi sürümler MIT lisansı ile yayımlanmıştır.
+
+Ticari lisans talepleri için GitHub üzerinden iletişime geçin: https://github.com/batuhansavas-yilmaz
+
+---
+
+English
+
+Copyright (c) 2026 Batuhan Savaş Yılmaz. All rights reserved.
+
+The software, source code, documentation and official release files (the "Software") are proprietary to Batuhan Savaş Yılmaz.
+
+1. LIMITED LICENSE. You may use the Software for personal, non-commercial purposes only, without modification. This license is non-exclusive and does not transfer ownership.
+2. COMMERCIAL USE PROHIBITED. Any direct or indirect commercial use, sale, rental, licensing, inclusion in a paid service, use in the course of a business, or distribution as part of a commercial product or service is prohibited without prior written permission.
+3. SOURCE CODE. The source code is proprietary and is not licensed under this document. No right to copy, modify or distribute the source code is granted.
+4. DISTRIBUTION. Official release files may be shared unmodified, free of charge and together with this license. Selling the Software or including it in a commercial package is prohibited.
+5. NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+6. LIMITATION OF LIABILITY. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE, WHETHER IN CONTRACT, TORT OR OTHERWISE.
+7. TERMINATION. Any breach of these terms automatically terminates all permissions granted under this license.
+8. PRIOR VERSIONS. This license applies to versions published after the date of this file. Official versions v0.2.14 and earlier were published under the MIT License.
+
+For commercial licensing inquiries, contact via GitHub: https://github.com/batuhansavas-yilmaz
