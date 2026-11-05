@@ -80,7 +80,7 @@ Remove-NetFirewallRule -DisplayName "Synpu (TCP 8787)"
 
 ## Lisanslar
 
-- Synpu: [MIT](LICENSE)
+- Synpu: Özel mülk — kişisel, ticari olmayan kullanım; ticari kullanım yasaktır ([LICENSE](LICENSE))
 - [PresentMon](https://github.com/GameTechDev/PresentMon): MIT — metin: `third_party/PresentMon-LICENSE.txt`
 - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor): MPL-2.0 — metin: `third_party/LibreHardwareMonitor-LICENSE.txt`
 - [PawnIO](https://pawnio.eu): GPL-2.0 (özel istisnayla) — Synpu ile paketlenmez, kurulum betiği resmi imzalı sürümü indirir — metin/bağlantı: `third_party/PawnIO-NOTICE.txt`
@@ -91,4 +91,4 @@ Remove-NetFirewallRule -DisplayName "Synpu (TCP 8787)"
 
 ## English (short)
 
-Synpu shows live CPU/GPU usage and temperature, RAM, and game FPS of your PC in your phone's browser over the local network — no account, no cloud. The UI follows your system light/dark theme. Requirements: Windows 10/11, admin rights (for CPU temp and FPS). Setup: double-click `setup.bat`, approve UAC, then scan the QR code shown on the PC with your phone (same Wi-Fi). Multi-PC: add other PCs from the "+ PC ekle" button. Uninstall: remove the "Synpu" scheduled task, the "Synpu (TCP 8787)" firewall rule, and the folder. License: MIT.
+Synpu shows live CPU/GPU usage and temperature, RAM, and game FPS of your PC in your phone's browser over the local network — no account, no cloud. The UI follows your system light/dark theme. Requirements: Windows 10/11, admin rights (for CPU temp and FPS). Setup: double-click `setup.bat`, approve UAC, then scan the QR code shown on the PC with your phone (same Wi-Fi). Multi-PC: add other PCs from the "+ PC ekle" button. Uninstall: remove the "Synpu" scheduled task, the "Synpu (TCP 8787)" firewall rule, and the folder. License: proprietary; personal, non-commercial use only (see LICENSE). Commercial use is prohibited.
